@@ -1,5 +1,5 @@
 
-Run: python src/candidates_extractor.py <sentences path> <probs path> <out path> <coordinators to extract> <n spans>
+Run: python src/candidates_extractor.py <sentences_path> <probs_path> <out_path> <coordinators_to_extract> <n_spans>
 
 
 Where:
