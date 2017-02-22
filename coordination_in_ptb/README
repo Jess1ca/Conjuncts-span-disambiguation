@@ -1,0 +1,3 @@
+Run: python data_creation.py <constituency trees> <out folder>
+
+where "constituency trees" are the path to PTB.ext which includes marked coordination
